@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="estado_normal">#81C784</color>
+    <color name="estado_advertencia">#FFB74D</color>
+    <color name="estado_critico">#E57373</color>
+</resources>

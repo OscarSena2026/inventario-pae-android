@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Acceso -->
+    <string name="login_titulo">Inventario PAE</string>
+    <string name="login_subtitulo">Inicia sesión para continuar</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="hint_confirmar">Confirmar contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_ir_registro">Crear cuenta nueva</string>
+    <string name="registro_titulo">Crear cuenta</string>
+    <string name="btn_registrar">Registrarme</string>
+    <string name="registro_ok">Usuario registrado. Ya puedes iniciar sesión.</string>
+
+    <!-- Menú principal -->
+    <string name="menu_bienvenida">Hola, %1$s</string>
+    <string name="menu_inventario_titulo">Inventario</string>
+    <string name="menu_inventario_desc">Consulta las existencias por producto, bodega y lote</string>
+    <string name="menu_productos_titulo">Productos</string>
+    <string name="menu_productos_desc">Lista y registra productos</string>
+    <string name="menu_alertas_titulo">Alertas</string>
+    <string name="menu_alertas_desc">Stock bajo el mínimo y lotes por vencer</string>
+    <string name="menu_nota_web">Reportes, entradas, salidas y catálogos se manejan en la versión web.</string>
+    <string name="btn_cerrar_sesion">Cerrar sesión</string>
+
+    <!-- Listas -->
+    <string name="titulo_existencias">Existencias</string>
+    <string name="titulo_productos">Productos</string>
+    <string name="titulo_alertas">Alertas</string>
+    <string name="hint_buscar">Buscar por nombre</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="lista_vacia">No hay resultados para mostrar.</string>
+    <string name="btn_nuevo_producto">Nuevo producto</string>
+
+    <!-- Alertas -->
+    <string name="alertas_stock_titulo">Stock bajo el mínimo</string>
+    <string name="alertas_venc_titulo">Lotes por vencer (30 días)</string>
+    <string name="alertas_stock_vacio">Ningún producto está bajo el mínimo.</string>
+    <string name="alertas_venc_vacio">No hay lotes por vencer en los próximos 30 días.</string>
+
+    <!-- Formulario de producto -->
+    <string name="titulo_producto_nuevo">Nuevo producto</string>
+    <string name="hint_nombre_producto">Nombre del producto</string>
+    <string name="hint_categoria">Categoría</string>
+    <string name="hint_unidad">Unidad de medida (kg, L, und)</string>
+    <string name="hint_stock_minimo">Stock mínimo</string>
+    <string name="check_perecedero">Es perecedero</string>
+    <string name="btn_guardar">Guardar producto</string>
+    <string name="producto_guardado">Producto registrado correctamente.</string>
+</resources>
